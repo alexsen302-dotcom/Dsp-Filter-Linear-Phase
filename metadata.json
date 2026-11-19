@@ -1,0 +1,6 @@
+{
+  "name": "LinearPhase DSP — Interactive FIR Filter Lab",
+  "description": "Interactive Digital Signal Processing laboratory for mastering linear-phase FIR filters, phase distortion, Types I–IV classification, Z-plane zero constellations, and folded pre-addition hardware architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
